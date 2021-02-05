@@ -1,4 +1,4 @@
-# pin_matcher
+# Pin Matcher
 This is a basic pin matcher application. It is a part of my course. 
 # Live Link 
 https://mdnakibul.github.io/pin_matcher/
